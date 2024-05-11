@@ -3,7 +3,7 @@ Control task for the course "Mathematical Statistics and Data Analysis"
 
 Directory Structure
 
-.
+<pre>
 ├── graphs                      # Graphs for each task
 │   ├── dist_day.png                # Distribution by day          
 │   ├── dist_month.png              # Distribution by month
@@ -18,4 +18,4 @@ Directory Structure
 ├── README.md
 ├── requirements.txt            # Packages used
 └── stat.txt                    # Dataset statistics
-
+<pre>
